@@ -7,12 +7,14 @@ Want intructions? Simples:
 2. Run the following command in Command Prompt (Windows) or Terminal (Linux or macOS), after you change the example file path to your own.
 
 Windows example:
-```cd "C:\\Users\\Example\\Downloads"
+```
+cd "C:\\Users\\Example\\Downloads"
 python name_guesser.py
 ```
 
 Linux and macOS example:
-```cd "/home/example/Downloads"
+```
+cd "/home/example/Downloads"
 python name_guesser.py
 ```
 

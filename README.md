@@ -8,7 +8,7 @@ Want intructions? Simples:
 
 Windows example:
 ```
-cd "C:\\Users\\Example\\Downloads"
+cd "C:\Users\Example\Downloads"
 python name_guesser.py
 ```
 
